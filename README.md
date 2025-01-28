@@ -7,7 +7,7 @@
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzrteam&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" /></p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrzrteam&theme=highcontrast&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrzrteam&theme=dracula&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <p><img src="https://github-profile-trophy.vercel.app/?username=mrzrteam&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   </details>
 </div>
