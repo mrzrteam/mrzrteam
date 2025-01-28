@@ -14,7 +14,7 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RullDev&theme=algolia" alt="RullDev"  /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=mrzrteam&theme=highcontrast&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D" alt="d"  /></p>
 
 <p align="left"> 
 
