@@ -16,8 +16,7 @@
 👋 Hello. My full name is Zilfa Ardiansyah, and you can call me ***"Zilfa"***. I'm Web Developer who specialized in *Frontend* on works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
 
 ## 💼 Career
-I'm working internship as a ***Web Developer***. Currently on building the Web Platform and improving its *DX (Developer Experience)*.
-I have some experiences that help me develop my own skills, including more than 1 year of experience and about 3 years of learning about Network and Application Informatics System since 2021.
+I am currently a student at SMKN 5 Telkom Banda Aceh, where I am pursuing my education in the Software Engineering (RPL) program. This field of study focuses on developing skills in software design, programming, and problem-solving, preparing me to become a professional in the technology and software industry. As part of my studies, I am gaining both theoretical knowledge and practical experience to build innovative and efficient software solutions.
 
 ## 🔍 Currently Learning:
 - Cyber Security, Copywriting, Web, Solidity, and AI.
