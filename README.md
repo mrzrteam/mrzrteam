@@ -13,7 +13,7 @@
 </div>
 <br>
 
-👋 Hello. My full name is Zilfa Ardiansyah, and you can call me ***"Zilfa"***. I'm Web Developer who specialized in *Frontend* on works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
+👋 Hello. My full name is Zilfa Ardiansyah, and you can call me ***"Zilfa"***. I'm Web Developer who specialized in *Backend* on works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
 
 ## 💼 Career
 I am currently a student at SMKN 5 Telkom Banda Aceh, where I am pursuing my education in the Software Engineering (RPL) program. This field of study focuses on developing skills in software design, programming, and problem-solving, preparing me to become a professional in the technology and software industry. As part of my studies, I am gaining both theoretical knowledge and practical experience to build innovative and efficient software solutions.
@@ -23,7 +23,7 @@ I am currently a student at SMKN 5 Telkom Banda Aceh, where I am pursuing my edu
 - SEO, Web Performance, Guideline & Tech Docs Writing
 
 ## 🚀 How to reach me:
-- Web: [romi.my.id](https://romi.my.id)
+- Web: [zilfa.vercel.app](https://zilfa.vercel.app)
 - Email: [zrteamcs@gmail.com](mailto:zrteamcs@gmail.com)
 - Instagram: [@mrzrteam](https://instagram.com/mrzrteam)
 
